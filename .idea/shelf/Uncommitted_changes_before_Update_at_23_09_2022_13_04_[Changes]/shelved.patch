@@ -1,0 +1,86 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b80ad87d-92fc-40b7-bb4f-510d6b88a116\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/DAO/ApplianceDAO.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/DAO/DAOFactory.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Appliance.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Fridge.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Laptop.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Oven.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Tablet.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/Teapot.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/VacuumCleaner.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/criteria/Criteria.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/entity/criteria/SearchCriteria.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/main/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/service/ApplianceService.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/service/ServiceFactory.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/service/impl/ApplianceServiceImpl.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/service/validation/Validator.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/DB.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/LR2.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/LR2/Main.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/resources/DB.xml\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FACvz7jcI8ZeYYN3KRdkyTi4fj\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Users/Иван/Desktop/Уник/ВТ/LR1\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"main.Main\" />\r\n      <module name=\"LR2\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"main.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b80ad87d-92fc-40b7-bb4f-510d6b88a116\" name=\"Changes\" comment=\"\" />\r\n      <created>1663925747554</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1663925747554</updated>\r\n      <workItem from=\"1663925748990\" duration=\"1356000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7ea566df4acacf66452acffd64e8f2873a64152b)
++++ b/.idea/workspace.xml	(date 1663927437516)
+@@ -4,11 +4,13 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="">
++    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="Create Maven project LR2">
+       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/DAO/ApplianceDAO.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/DAO/DAOFactory.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java" afterDir="false" />
+@@ -28,6 +30,32 @@
+       <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/ApplianceServiceImpl.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/java/service/validation/Validator.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/resources/DB.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/DAO/ApplianceDAO.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/DAO/DAOFactory.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/DAO/impl/ApplianceDAOImpl.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/DB.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Appliance.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Fridge.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Laptop.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Oven.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Tablet.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/Teapot.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/VacuumCleaner.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/criteria/Criteria.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/entity/criteria/SearchCriteria.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/main/PrintApplianceInfo.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/service/ApplianceService.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/service/ServiceFactory.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/service/impl/ApplianceServiceImpl.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/target/classes/service/validation/Validator.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/compiler.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/encodings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/jarRepositories.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../jwd-task01-template_v2/target/classes/appliances_db.txt" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+@@ -101,8 +129,16 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1663925747554</updated>
+-      <workItem from="1663925748990" duration="1356000" />
++      <workItem from="1663925748990" duration="1687000" />
++    </task>
++    <task id="LOCAL-00001" summary="Create Maven project LR2">
++      <created>1663927426845</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1663927426845</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -119,4 +155,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Create Maven project LR2" />
++    <option name="LAST_COMMIT_MESSAGE" value="Create Maven project LR2" />
++  </component>
+ </project>
+\ No newline at end of file
